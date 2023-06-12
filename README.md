@@ -33,7 +33,7 @@ Front-end dev and JS adept
 <p align="left"> <a href="https://www.github.com/OzzyMalv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexey-malinovsky-09515314b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
+<!-- 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/OzzyMalv"><img src="https://github-readme-stats.vercel.app/api?username=OzzyMalv&show_icons=true&hide=stars,issues,&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OzzyMalv's GitHub stats" /></a>
+<a href="http://www.github.com/OzzyMalv"><img src="https://github-readme-stats.vercel.app/api?username=OzzyMalv&show_icons=true&hide=stars,issues,&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OzzyMalv's GitHub stats" /></a> -->
