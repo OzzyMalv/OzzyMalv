@@ -1,15 +1,15 @@
 Hi 👋 My name is Alex Malv
 ==========================
 
-Front-end dev and JS adept
+Lead Front-end dev and JS adept
 --------------------------
 
 5 years in outsourcing different domains such as IoT eComm FinTech
 
-* 🌍  I'm based in Prague, Czech Republic
-* ✉️  You can contact me at [a.malinovsky303@gmail.com](mailto:a.malinovsky303@gmail.com )
-* 🧠  I'm learning yet another FE framework
-* ⚡  UX defender
+* 🌍  I'm based in Prague, Czech Republic
+* ✉️  You can contact me at [a.malinovsky303@gmail.com](mailto:a.malinovsky303@gmail.com )
+* 🧠  I'm learning yet another FE framework
+* ⚡  UX defender
 
 ### Skills
 
