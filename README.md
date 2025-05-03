@@ -4,7 +4,7 @@ Hi 👋 My name is Alex Malv
 Lead Front-end dev and JS adept
 --------------------------
 
-6 years' development in different domains such as SaaS IoT eComm FinTech. I build web applications using leading-edge technologies all for the users, business and hype 🔥
+7 years' development in different domains such as SaaS IoT eComm FinTech. I build web applications using leading-edge technologies all for the users, business and hype 🔥
 
 * 🌍  I'm based in Prague, Czech Republic
 * ✉️  You can contact me at [a.malinovsky303@gmail.com](mailto:a.malinovsky303@gmail.com )
